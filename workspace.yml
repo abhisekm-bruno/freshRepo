@@ -8,6 +8,7 @@ collections:
     path: "collections/Untitled Collection"
   - name: "HarryPotter"
     path: "collections/HarryPotter"
+    remote: "https://github.com/abhisekm-bruno/gitCases"
   - name: "Avatar"
     path: "collections/Avatar"
 
