@@ -1,0 +1,16 @@
+opencollection: 1.0.0
+info:
+  name: "WS"
+  type: workspace
+
+collections:
+  - name: "Untitled Collection"
+    path: "collections/Untitled Collection"
+  - name: "HarryPotter"
+    path: "collections/HarryPotter"
+  - name: "Avatar"
+    path: "collections/Avatar"
+
+specs:
+
+docs: ''
